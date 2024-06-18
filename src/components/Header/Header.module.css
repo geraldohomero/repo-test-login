@@ -1,0 +1,8 @@
+.navbarHeader {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 1rem 2rem;
+  background-color: #d3d3d3;
+  color: rgb(0, 0, 0);
+}
